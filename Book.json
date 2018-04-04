@@ -5,7 +5,7 @@
     "description": "The brilliant,landmark novel that tells the story of the Buendia family, and chronicles the irreconcilable conflict between the desire for solitude",
     "price": 17,
     "author": "Gabriel García Márquez",
-    "thumbnail": "https://api.androidhive.info/images/food/1.jpg",
+    "thumbnail": "https://image.ibb.co/iton7H/images.jpg",
     "genre": "Magical Realism"
   },
   {
@@ -14,7 +14,7 @@
     "description": "The Secret by Rhonda Byrne is a self-help book that embarks to motivate the reader about a universal paradigm about success that can be achieved though it remains hidden for most people.",
     "price": 10,
     "author": "Rhonda Byrne",
-    "thumbnail": "https://goo.gl/FTstZG",
+    "thumbnail": "https://image.ibb.co/c9xEnH/secret.jpg",
     "genre": "Motivational"
   },
   {
@@ -23,7 +23,7 @@
     "description": "The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers",
     "price": 15,
     "author": "Shankha Jana",
-    "thumbnail": "https://api.androidhive.info/images/food/3.jpg",
+    "thumbnail": "https://image.ibb.co/j9wqSH/Introductionto_Algorithms.jpg",
     "genre": "Computer Science"
   },
   {
@@ -32,7 +32,7 @@
     "description": " Told in language of great simplicity and power, it is the story of an old Cuban fisherman, down on his luck, and his supreme ordeal -- a relentless, agonizing battle with a giant marlin far out in the Gulf Stream. ",
     "price": 15,
     "author": "Ernest Hemingway",
-    "thumbnail": "https://api.androidhive.info/images/food/4.jpg",
+    "thumbnail": "https://image.ibb.co/hpmAux/the_old_man.jpg,
     "genre": "Literary fiction"
   },
   {
@@ -41,7 +41,7 @@
     "description": "A novel that explores the tragedy of racism in the 1930s and the dramatics of the 'Great Depression', Harper Lee’s 'To Kill A         Mockingbird' is a tale that infuses humour and sorrow into a touching story .",
     "price": 9,
     "author": "Harper Lee",
-    "thumbnail": "https://api.androidhive.info/images/food/5.jpg",
+    "thumbnail": "https://image.ibb.co/bATyEx/mokingbird.jpg",
     "genre": "Coming-of-Age Fiction"
   },
   {
@@ -50,7 +50,7 @@
     "description": "This gothic fiction story begins on sunny day when Lord Wotton, a man of strong views observes an artist, Basil Hallward, painting the picture of a good looking young man named Dorian Gray.",
     "price": 230,
     "author": "Oscar Wilde",
-    "thumbnail": "https://api.androidhive.info/images/food/6.jpg",
+    "thumbnail": "https://image.ibb.co/gAqaSH/dorian_gray.jpg",
     "genre": " Philosophical fiction"
   },
   {
@@ -59,7 +59,7 @@
     "description": "Tolstoy's enthralling epic depicts Russia's war with Napoleon and its effects on the lives of those caught up in the conflict. ",
     "price": 12,
     "author": " Leo Tolstoy",
-    "thumbnail": "https://api.androidhive.info/images/food/7.jpg",
+    "thumbnail": "https://image.ibb.co/fpekSH/war_and_peace.jpg",
     "genre": "Historical Fiction"
   },
   {
@@ -68,7 +68,7 @@
     "description": "The classic literary masterpiece is a story about an Algerian, Meursault, the titular character who commits a murder after attending his mother’s funeral. His understanding of the world, his emotional spectrum, and the general absurdities of the time all combine to form a compelling read.",
     "price": 8,
     "author": " Albert Camus",
-    "thumbnail": "https://api.androidhive.info/images/food/8.jpg",
+    "thumbnail": "https://image.ibb.co/h3427H/the_stranger.jpg",
     "genre": "Philosophical fiction"
   }
 ]
