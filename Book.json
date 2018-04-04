@@ -4,7 +4,7 @@
     "name": "One Hundred Years of Solitude",
     "description": "The brilliant,landmark novel that tells the story of the Buendia family, and chronicles the irreconcilable conflict between the desire for solitude",
     "price": 17,
-    "author": "Gabriel García Márquez",
+    "author": "Gabriel GarcÃ­a MÃ¡rquez",
     "thumbnail": "https://api.androidhive.info/images/food/1.jpg",
     "genre": "Magical Realism"
   },
@@ -33,12 +33,12 @@
     "price": 15,
     "author": "Ernest Hemingway",
     "thumbnail": "https://api.androidhive.info/images/food/4.jpg",
-    "genre": ""Literary fiction"
+    "genre": "Literary fiction"
   },
   {
     "id": 5,
     "name": "To Kill a Mockingbird",
-    "description": "A novel that explores the tragedy of racism in the 1930s and the dramatics of the 'Great Depression', Harper Lee’s 'To Kill A         Mockingbird' is a tale that infuses humour and sorrow into a touching story .",
+    "description": "A novel that explores the tragedy of racism in the 1930s and the dramatics of the 'Great Depression', Harper Leeâ€™s 'To Kill A         Mockingbird' is a tale that infuses humour and sorrow into a touching story .",
     "price": 9,
     "author": "Harper Lee",
     "thumbnail": "https://api.androidhive.info/images/food/5.jpg",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "The Stranger",
-    "description": "The classic literary masterpiece is a story about an Algerian, Meursault, the titular character who commits a murder after attending his mother’s funeral. His understanding of the world, his emotional spectrum, and the general absurdities of the time all combine to form a compelling read.",
+    "description": "The classic literary masterpiece is a story about an Algerian, Meursault, the titular character who commits a murder after attending his motherâ€™s funeral. His understanding of the world, his emotional spectrum, and the general absurdities of the time all combine to form a compelling read.",
     "price": 8,
     "author": " Albert Camus",
     "thumbnail": "https://api.androidhive.info/images/food/8.jpg",
